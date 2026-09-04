@@ -7,11 +7,9 @@
 // @match        https://*.open-wave.nl/*
 // @grant        none
 // @run-at       document-start
-// @downloadURL  https://raw.githubusercontent.com/cygnus9/openwave-userscripts/refs/head/main/ui-tweaks/disable-animation.user.js
-// @updateURL    https://raw.githubusercontent.com/cygnus9/openwave-userscripts/refs/head/main/ui-tweaks/disable-animation.user.js
+// @downloadURL  https://github.com/cygnus9/openwave-userscripts/raw/refs/heads/main/ui-tweaks/disable-animation.user.js
+// @updateURL    https://github.com/cygnus9/openwave-userscripts/raw/refs/heads/main/ui-tweaks/disable-animation.user.js
 // ==/UserScript==
-
-//https://raw.githubusercontent.com/cygnus9/rrd-rust/refs/heads/main/.gitignore
 
 (function () {
     'use strict';
